@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Thu, 31 May 2018 12:18:07 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"www.fipsolutions.de\/feed","blog_id":1,"post":0,"key":"www.fipsolutions.de443\/feed"}

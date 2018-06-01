@@ -1,0 +1,282 @@
+# Translation of Themes - Radcliffe in German
+# This file is distributed under the same license as the Themes - Radcliffe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-28 14:56:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Radcliffe\n"
+
+#. Description of the plugin/theme
+msgid "A theme for bloggers who want their content to take center stage. Radcliffe features responsive design, retina-ready assets, full width header images, beautiful design and typography, support for custom logo, support for custom accent color, three widget areas, editor style and translation-ready code. Demo: http://www.andersnoren.se/themes/radcliffe/"
+msgstr "Ein Theme für Blogger, die ihre Inhalte in den Mittelpunkt stellen möchten. Radcliffe bietet ein responsives Design, Retina-fähige Assets, Full-Header-Bilder, schönes Design und Typografie, Unterstützung für ein benutzerdefiniertes Logo, eine eigene Akzentfarbe, drei Widget-Bereiche, eine Editor-Stilvorlage und übersetzungsfähigen Code. Demo: http://www.andersnoren.se/themes/radcliffe/"
+
+#. Theme Name of the plugin/theme
+msgid "Radcliffe"
+msgstr "Radcliffe"
+
+#: single.php:132
+msgid "Next post: %s"
+msgstr "Nächster Beitrag: %s"
+
+#: search.php:15 search.php:65
+msgid "Search results: \"%s\""
+msgstr "Suchergebnisse: „%s“"
+
+#: functions.php:21
+msgid "Primary Menu"
+msgstr "Hauptmenu"
+
+#: comments.php:45
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s Pingback"
+msgstr[1] "%s Pingbacks"
+
+#: comments.php:19
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Kommentar"
+msgstr[1] "%s Kommentare"
+
+#. Template Name of the plugin/theme
+msgid "Archive Template"
+msgstr "Archiv-Template"
+
+#: single.php:143
+msgid "Previous post: %s"
+msgstr "Vorheriger Beitrag: %s"
+
+#: single.php:106
+msgid "About the post"
+msgstr "Über den Beitrag"
+
+#: single.php:90
+msgid "Author website"
+msgstr "Website des Autors"
+
+#: single.php:82
+msgid "Author archive"
+msgstr "Autoren-Archiv"
+
+#: single.php:68
+msgid "About the author"
+msgstr "Über den Autor"
+
+#: search.php:83
+msgid "No results. Try again, would you kindly?"
+msgstr "Keine Fundstellen; möchtest Du noch einmal probieren?"
+
+#: page.php:48 single.php:60
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: index.php:19
+msgid "Page %s of %s"
+msgstr "Seite %s von %s"
+
+#: image.php:54 page.php:60 single.php:167 template-archive.php:61
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Für diesen Suchbegriff gibt es keine Beiträge. Bitte probiere es noch einmal."
+
+#: header.php:113 searchform.php:3
+msgid "Search"
+msgstr "Suchen"
+
+#: header.php:112 searchform.php:2
+msgid "Search form"
+msgstr "Suchformular"
+
+#: header.php:85
+msgid "Show the search field"
+msgstr "Zeige das Suchformular an"
+
+#: header.php:48
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:21
+msgid "Type and press enter"
+msgstr "Text eingeben und Enter drücken"
+
+#: functions.php:354
+msgid "Accent Color"
+msgstr "Akzentfarbe"
+
+#: functions.php:329
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Logo hochladen (ersetzt den Seitentitel im Header)."
+
+#: functions.php:327 functions.php:362
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:322
+msgid "Allows you to customize theme settings for Radcliffe."
+msgstr "Erlaubt dir die Themen-Einstellungen für Redcliffe anzupassen."
+
+#: functions.php:319
+msgid "Radcliffe Options"
+msgstr "Radcliffe Optionen"
+
+#: functions.php:291
+msgid "Reply"
+msgstr "Antwort"
+
+#: functions.php:289
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:279
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freigabe."
+
+#: functions.php:260
+msgid "(Post author)"
+msgstr "(Beitragsautor)"
+
+#: functions.php:260
+msgid "Comment by post author"
+msgstr "Kommentar des Beitrags-Autors"
+
+#: functions.php:244
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:244
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:180
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: functions.php:135
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in diesem Bereich werden im rechten Teil des Footers angezeigt."
+
+#: functions.php:133
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:125
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in diesem Bereich werden im mittleren Teil des Footers angezeigt."
+
+#: functions.php:123
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:115
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in diesem Bereich werden im linken Teil des Footers angezeigt."
+
+#: functions.php:113
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:69
+msgid "Up"
+msgstr "&uarr;"
+
+#: footer.php:69
+msgid "To the top"
+msgstr "Ganz nach oben"
+
+#: footer.php:69
+msgid "Theme by"
+msgstr "Thema von"
+
+#: content.php:43
+msgid "Sticky"
+msgstr "Sticky"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:71
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:65
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:23
+msgid "Add yours"
+msgstr "Eigenen Kommentar schreiben"
+
+#: archive.php:75 index.php:43 search.php:49
+msgid "Newer posts"
+msgstr "Neuere Beiträge"
+
+#: archive.php:73 index.php:41 search.php:47
+msgid "Older posts"
+msgstr "Ältere Beiträge"
+
+#: archive.php:39 search.php:21 search.php:71
+msgid "(page %s of %s)"
+msgstr "(Seite %s von %s)"
+
+#: archive.php:31
+msgid "Archive"
+msgstr "Archive"
+
+#: archive.php:28
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:24
+msgid "Tag: %s"
+msgstr "Schlagwort: %s"
+
+#: archive.php:21
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: archive.php:18
+msgctxt "Y = Year"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:15
+msgctxt "F = Month, Y = Year"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:15
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:12
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Anscheinend hast du eine Seite aufgerufen, die nicht existiert. Sie könnte gelöscht oder verschoben worden sein – oder hat nie existiert. Gerne kannst du die nachfolgende Suchfunktion nutzen, um die gewünschten Inhalte zu finden."
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/radcliffe-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/radcliffe-wordpress-theme/"
