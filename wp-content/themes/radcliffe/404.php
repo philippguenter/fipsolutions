@@ -23,7 +23,6 @@
         <div class="section-inner thin">
         
 	        <?php get_search_form(); ?>
-        
         </div>
         	            	                        	
 	</div><!-- .post -->
