@@ -11,7 +11,8 @@
 				<h2 class="post-title"><?php _e( 'Error 404', 'radcliffe' ); ?></h2>
 			
 			</div><!-- .post-header-inner section-inner -->
-													
+
+
 		</div><!-- .post-header section -->
 	                                                	            
         <div class="post-content section-inner thin">
