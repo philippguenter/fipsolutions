@@ -12,7 +12,6 @@
 			
 			</div><!-- .post-header-inner section-inner -->
 
-
 		</div><!-- .post-header section -->
 	                                                	            
         <div class="post-content section-inner thin">
