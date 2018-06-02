@@ -21,7 +21,6 @@
             
         </div><!-- .post-content -->
 
-        	            	                        	
 	</div><!-- .post -->
 	
 </div><!-- .content -->
