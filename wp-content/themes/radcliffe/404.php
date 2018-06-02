@@ -8,7 +8,7 @@
 		
 			<div class="post-header-inner section-inner">
 																								
-				<h2 class="post-title"><?php _e( 'Error 404', 'radcliffe' ); ?></h2>
+				<h2 class="post-title"><?php _e( 'Error 404', 'radcliffe' ); ?> test</h2>
 			
 			</div><!-- .post-header-inner section-inner -->
 
